@@ -1,0 +1,1455 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_divsi3.o)
+                              sata_cmd.o (__aeabi_idiv)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_dvmd_tls.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_divsi3.o) (__aeabi_idiv0)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_aeabi_uldivmod.o)
+                              misc.o (__aeabi_uldivmod)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_udivmoddi4.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_clzdi2.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_udivmoddi4.o) (__clzdi2)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_clzsi2.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_clzdi2.o) (__clzsi2)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+                              uart.o (fflush)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o) (__sinit)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o) (_free_r)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o) (_fwalk)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o) (_global_impure_ptr)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o) (_malloc_r)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o) (memset)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o) (__malloc_lock)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-rand.o)
+                              misc.o (srand)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o) (_sbrk_r)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-sprintf.o)
+                              misc.o (sprintf)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o) (__sread)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-sprintf.o) (_svfprintf_r)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vsnprintf.o)
+                              uart.o (vsnprintf)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o) (_write_r)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o) (_close_r)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-svfprintf.o) (_dtoa_r)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o) (_fclose_r)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-svfprintf.o) (_localeconv_r)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o) (_lseek_r)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr-stub.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-svfprintf.o) (memchr)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy-stub.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o) (memcpy)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o) (_Balloc)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o) (_read_r)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o) (errno)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o) (strcmp)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen-stub.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-svfprintf.o) (strlen)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-svfprintf.o) (__ssprint_r)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o) (_calloc_r)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o) (memmove)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o) (_realloc_r)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_udivsi3.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o) (__aeabi_uidiv)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_arm_addsubdf3.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o) (__aeabi_dsub)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_arm_muldivdf3.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o) (__aeabi_dmul)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_arm_cmpdf2.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-svfprintf.o) (__aeabi_dcmpeq)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_arm_unorddf2.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-svfprintf.o) (__aeabi_dcmpun)
+/home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_arm_fixdfsi.o)
+                              /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o) (__aeabi_d2iz)
+
+Allocating common symbols
+Common symbol       size              file
+
+tag_list            0x10              ftl.o
+fifo_start          0x4               ftl.o
+errno               0x4               /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+mapTableRef         0xe8              ftl.o
+bitmap              0x80              ftl.o
+g_sata_context      0x1c              sata_main.o
+g_sdram_ecc_fail_count
+                    0x4               misc.o
+fifo_end            0x4               ftl.o
+g_ftl_read_buf_id   0x4               ftl.o
+g_sata_action_flags
+                    0x4               sata_main.o
+g_ftl_write_buf_id  0x4               ftl.o
+tag_last            0x10              ftl.o
+hash_list           0x200             ftl.o
+inum_table          0x20              sata_isr.o
+g_temp_mem          0x200             mem_util.o
+g_timer_interrupt_count
+                    0x4               misc.o
+g_sdram_ecc_count   0x4               misc.o
+num_entries         0x4               ftl.o
+__HEAP_START        0x800             misc.o
+g_sata_ncq          0x404             sata_main.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ftl.o
+LOAD sata_identify.o
+LOAD sata_cmd.o
+LOAD sata_isr.o
+LOAD sata_main.o
+LOAD sata_table.o
+LOAD initialize.o
+LOAD mem_util.o
+LOAD flash.o
+LOAD flash_wrapper.o
+LOAD misc.o
+LOAD uart.o
+LOAD syscalls.o
+LOAD init.o
+LOAD /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a
+START GROUP
+LOAD /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a
+LOAD /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a
+END GROUP
+                0x00000000                . = 0x0
+
+.text           0x00000000     0x56a4
+                0x00000000                entry_point = .
+ init.o(INIT)
+ INIT           0x00000000       0xc8 init.o
+                0x00000044                disable_irq
+                0x00000060                enable_irq
+                0x00000070                disable_fiq
+                0x0000008c                enable_fiq
+                0x0000009c                disable_interrupt
+                0x000000ac                enable_interrupt
+ *(.text)
+ .text          0x000000c8     0x17c0 ftl.o
+                0x00000804                ftl_open
+                0x00000eec                ftl_flush
+                0x00001078                ftl_test_write
+                0x0000107c                ftl_read
+                0x000011fc                ftl_write
+                0x0000178c                ftl_isr
+ .text          0x00001888      0x1c8 sata_identify.o
+                0x00001908                ata_identify_device
+ .text          0x00001a50      0x89c sata_cmd.o
+                0x00001a50                ata_check_power_mode
+                0x00001ab0                ata_flush_cache
+                0x00001b28                ata_set_features
+                0x00001cac                ata_seek
+                0x00001d28                ata_idle_immediate
+                0x00001da0                ata_idle
+                0x00001da4                ata_standby_immediate
+                0x00001da8                ata_standby
+                0x00001dac                ata_read_native_max_address
+                0x00001e6c                ata_initialize_device_parameters
+                0x00001f8c                ata_recalibrate
+                0x00001ff4                ata_sleep
+                0x00001ff8                ata_set_multiple_mode
+                0x00001ffc                ata_read_verify_sectors
+                0x00002000                ata_not_supported
+                0x00002068                ata_nop
+                0x0000206c                send_status_to_host
+                0x000020e8                ata_srst
+                0x0000215c                ata_execute_drive_diagnostics
+                0x00002168                pio_sector_transfer
+                0x000022cc                ata_read_buffer
+                0x000022dc                ata_write_buffer
+ .text          0x000022ec      0x618 sata_isr.o
+                0x000022ec                fiq_handler
+ .text          0x00002904      0x2c0 sata_main.o
+                0x00002904                Main
+                0x00002a3c                sata_reset
+                0x00002b9c                delay
+ .text          0x00002bc4        0x0 sata_table.o
+ .text          0x00002bc4      0x1f8 initialize.o
+                0x00002bc4                init_jasmine
+ .text          0x00002dbc      0x5d8 mem_util.o
+                0x00002dbc                _mem_copy
+                0x00002e08                _mem_bmp_find_sram
+                0x00002e58                _mem_bmp_find_dram
+                0x00002ea8                _mem_set_sram
+                0x00002ef8                _mem_set_dram
+                0x00002f48                _mem_search_min_max
+                0x00002f94                _mem_search_equ
+                0x00002ff8                _write_dram_32
+                0x00003028                _write_dram_16
+                0x0000308c                _write_dram_8
+                0x000030ec                _set_bit_dram
+                0x0000314c                _clr_bit_dram
+                0x000031ac                _tst_bit_dram
+                0x000031e4                _read_dram_8
+                0x00003218                _read_dram_16
+                0x00003250                _read_dram_32
+                0x00003270                _mem_cmp_sram
+                0x000032dc                _mem_cmp_dram
+ .text          0x00003394      0x36c flash.o
+                0x00003394                flash_issue_cmd
+                0x000033f4                flash_copy
+                0x00003460                flash_modify_copy
+                0x000034e0                flash_erase
+                0x00003540                flash_finish
+                0x00003554                flash_clear_irq
+                0x0000358c                flash_reset
+ .text          0x00003700      0x6d4 flash_wrapper.o
+                0x00003700                nand_page_read
+                0x0000375c                nand_page_ptread
+                0x000037bc                nand_page_read_to_host
+                0x00003868                nand_page_ptread_to_host
+                0x00003914                nand_page_program
+                0x00003970                nand_page_ptprogram
+                0x000039d0                nand_page_program_from_host
+                0x00003a6c                nand_page_ptprogram_from_host
+                0x00003b08                nand_page_copyback
+                0x00003c2c                nand_page_modified_copyback
+                0x00003d34                nand_block_erase
+                0x00003d84                nand_block_erase_sync
+ .text          0x00003dd4      0x5b4 misc.o
+                0x00003dd4                led
+                0x00003df4                led_blink
+                0x00003e2c                swi_handler
+                0x00003e30                irq_handler
+                0x00003ef4                test_nand_blocks
+                0x0000423c                start_interval_measurement
+                0x0000426c                start_timer
+                0x00004298                ptimer_start
+                0x000042c0                ptimer_stop_and_uart_print
+                0x00004320                ptimer_stat
+                0x0000435c                _sbrk
+ .text          0x00004388      0x210 uart.o
+                0x00004388                uart_init
+                0x000043c4                uart_print
+                0x00004424                uart_print_32
+                0x00004454                uart_print_hex
+                0x00004534                uart_printf
+ .text          0x00004598       0x20 syscalls.o
+                0x00004598                _close
+                0x000045a0                _lseek
+                0x000045a8                _write
+                0x000045b0                _read
+ .text          0x000045b8        0x0 init.o
+ .text          0x000045b8      0x148 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_divsi3.o)
+                0x000045b8                __aeabi_idiv
+                0x000045b8                __divsi3
+                0x000046e0                __aeabi_idivmod
+ .text          0x00004700        0x4 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_dvmd_tls.o)
+                0x00004700                __aeabi_ldiv0
+                0x00004700                __aeabi_idiv0
+ .text          0x00004704       0x3c /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_aeabi_uldivmod.o)
+                0x00004704                __aeabi_uldivmod
+ .text          0x00004740      0x12c /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_udivmoddi4.o)
+                0x00004740                __udivmoddi4
+ .text          0x0000486c       0x28 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_clzdi2.o)
+                0x0000486c                __clzdi2
+ .text          0x00004894       0x48 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_clzsi2.o)
+                0x00004894                __clzsi2
+ .text          0x000048dc        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .text          0x000048dc        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .text          0x000048dc        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .text          0x000048dc        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .text          0x000048dc        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .text          0x000048dc        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .text          0x000048dc        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .text          0x000048dc        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .text          0x000048dc        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-rand.o)
+ .text          0x000048dc        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .text          0x000048dc        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-sprintf.o)
+ .text          0x000048dc        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .text          0x000048dc        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+ .text          0x000048dc        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vsnprintf.o)
+ .text          0x000048dc        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .text          0x000048dc        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .text          0x000048dc        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+ .text          0x000048dc        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .text          0x000048dc        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+ .text          0x000048dc        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .text          0x000048dc        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr-stub.o)
+ .text          0x000048dc        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy-stub.o)
+ .text          0x000048dc        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+ .text          0x000048dc        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+ .text          0x000048dc        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .text          0x000048dc      0x224 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+                0x000048dc                strcmp
+ .text          0x00004b00        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen-stub.o)
+ .text          0x00004b00        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+ .text          0x00004b00        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+ .text          0x00004b00        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .text          0x00004b00        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .text          0x00004b00      0x114 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_udivsi3.o)
+                0x00004b00                __udivsi3
+                0x00004b00                __aeabi_uidiv
+                0x00004bf4                __aeabi_uidivmod
+ .text          0x00004c14      0x41c /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_arm_addsubdf3.o)
+                0x00004c14                __aeabi_drsub
+                0x00004c1c                __aeabi_dsub
+                0x00004c1c                __subdf3
+                0x00004c20                __adddf3
+                0x00004c20                __aeabi_dadd
+                0x00004f30                __aeabi_ui2d
+                0x00004f30                __floatunsidf
+                0x00004f54                __floatsidf
+                0x00004f54                __aeabi_i2d
+                0x00004f7c                __extendsfdf2
+                0x00004f7c                __aeabi_f2d
+                0x00004fbc                __aeabi_ul2d
+                0x00004fbc                __floatundidf
+                0x00004fd0                __floatdidf
+                0x00004fd0                __aeabi_l2d
+ .text          0x00005030      0x49c /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_arm_muldivdf3.o)
+                0x00005030                __aeabi_dmul
+                0x00005030                __muldf3
+                0x000052c0                __aeabi_ddiv
+                0x000052c0                __divdf3
+ .text          0x000054cc      0x144 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_arm_cmpdf2.o)
+                0x000054cc                __gtdf2
+                0x000054cc                __gedf2
+                0x000054d4                __ltdf2
+                0x000054d4                __ledf2
+                0x000054dc                __cmpdf2
+                0x000054dc                __eqdf2
+                0x000054dc                __nedf2
+                0x00005564                __aeabi_cdrcmple
+                0x00005580                __aeabi_cdcmple
+                0x00005580                __aeabi_cdcmpeq
+                0x00005598                __aeabi_dcmpeq
+                0x000055b0                __aeabi_dcmplt
+                0x000055c8                __aeabi_dcmple
+                0x000055e0                __aeabi_dcmpge
+                0x000055f8                __aeabi_dcmpgt
+ .text          0x00005610       0x38 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_arm_unorddf2.o)
+                0x00005610                __aeabi_dcmpun
+                0x00005610                __unorddf2
+ .text          0x00005648       0x5c /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_arm_fixdfsi.o)
+                0x00005648                __fixdfsi
+                0x00005648                __aeabi_d2iz
+
+.glue_7         0x000056a4        0x0
+ .glue_7        0x000056a4        0x0 linker stubs
+
+.glue_7t        0x000056a4        0x0
+ .glue_7t       0x000056a4        0x0 linker stubs
+
+.vfp11_veneer   0x000056a4        0x0
+ .vfp11_veneer  0x000056a4        0x0 linker stubs
+
+.v4_bx          0x000056a4        0x0
+ .v4_bx         0x000056a4        0x0 linker stubs
+
+.iplt           0x000056a4        0x0
+ .iplt          0x000056a4        0x0 ftl.o
+
+.text.__sflush_r
+                0x000056a4      0x240
+ .text.__sflush_r
+                0x000056a4      0x240 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+                0x000056a4                __sflush_r
+
+.text._fflush_r
+                0x000058e4       0x54
+ .text._fflush_r
+                0x000058e4       0x54 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+                0x000058e4                _fflush_r
+
+.text.fflush    0x00005938       0x38
+ .text.fflush   0x00005938       0x38 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+                0x00005938                fflush
+
+.text.__fp_unlock
+                0x00005970        0x8
+ .text.__fp_unlock
+                0x00005970        0x8 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+
+.text._cleanup_r
+                0x00005978       0x18
+ .text._cleanup_r
+                0x00005978       0x18 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x00005978                _cleanup_r
+
+.text.__sinit.part.1
+                0x00005990      0x160
+ .text.__sinit.part.1
+                0x00005990      0x160 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+
+.text.__fp_lock
+                0x00005af0        0x8
+ .text.__fp_lock
+                0x00005af0        0x8 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+
+.text.__sfmoreglue
+                0x00005af8       0x50
+ .text.__sfmoreglue
+                0x00005af8       0x50 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x00005af8                __sfmoreglue
+
+.text.__sfp     0x00005b48       0xec
+ .text.__sfp    0x00005b48       0xec /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x00005b48                __sfp
+
+.text._cleanup  0x00005c34       0x24
+ .text._cleanup
+                0x00005c34       0x24 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x00005c34                _cleanup
+
+.text.__sinit   0x00005c58       0x10
+ .text.__sinit  0x00005c58       0x10 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x00005c58                __sinit
+
+.text.__sfp_lock_acquire
+                0x00005c68        0x4
+ .text.__sfp_lock_acquire
+                0x00005c68        0x4 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x00005c68                __sfp_lock_acquire
+
+.text.__sfp_lock_release
+                0x00005c6c        0x4
+ .text.__sfp_lock_release
+                0x00005c6c        0x4 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x00005c6c                __sfp_lock_release
+
+.text.__sinit_lock_acquire
+                0x00005c70        0x4
+ .text.__sinit_lock_acquire
+                0x00005c70        0x4 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x00005c70                __sinit_lock_acquire
+
+.text.__sinit_lock_release
+                0x00005c74        0x4
+ .text.__sinit_lock_release
+                0x00005c74        0x4 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x00005c74                __sinit_lock_release
+
+.text.__fp_lock_all
+                0x00005c78       0x24
+ .text.__fp_lock_all
+                0x00005c78       0x24 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x00005c78                __fp_lock_all
+
+.text.__fp_unlock_all
+                0x00005c9c       0x24
+ .text.__fp_unlock_all
+                0x00005c9c       0x24 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x00005c9c                __fp_unlock_all
+
+.text._malloc_trim_r
+                0x00005cc0      0x100
+ .text._malloc_trim_r
+                0x00005cc0      0x100 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+                0x00005cc0                _malloc_trim_r
+
+.text._free_r   0x00005dc0      0x2ec
+ .text._free_r  0x00005dc0      0x2ec /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+                0x00005dc0                _free_r
+
+.text._fwalk    0x000060ac       0x84
+ .text._fwalk   0x000060ac       0x84 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+                0x000060ac                _fwalk
+
+.text._fwalk_reent
+                0x00006130       0x8c
+ .text._fwalk_reent
+                0x00006130       0x8c /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+                0x00006130                _fwalk_reent
+
+.text._malloc_r
+                0x000061bc      0x7a8
+ .text._malloc_r
+                0x000061bc      0x7a8 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x000061bc                _malloc_r
+
+.text.memset    0x00006964       0xf4
+ .text.memset   0x00006964       0xf4 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+                0x00006964                memset
+
+.text.__malloc_lock
+                0x00006a58        0x4
+ .text.__malloc_lock
+                0x00006a58        0x4 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+                0x00006a58                __malloc_lock
+
+.text.__malloc_unlock
+                0x00006a5c        0x4
+ .text.__malloc_unlock
+                0x00006a5c        0x4 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+                0x00006a5c                __malloc_unlock
+
+.text.srand     0x00006a60       0x1c
+ .text.srand    0x00006a60       0x1c /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-rand.o)
+                0x00006a60                srand
+
+.text.rand      0x00006a7c       0x54
+ .text.rand     0x00006a7c       0x54 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-rand.o)
+                0x00006a7c                rand
+
+.text._sbrk_r   0x00006ad0       0x44
+ .text._sbrk_r  0x00006ad0       0x44 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+                0x00006ad0                _sbrk_r
+
+.text._sprintf_r
+                0x00006b14       0x64
+ .text._sprintf_r
+                0x00006b14       0x64 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-sprintf.o)
+                0x00006b14                _sprintf_r
+
+.text.sprintf   0x00006b78       0x74
+ .text.sprintf  0x00006b78       0x74 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-sprintf.o)
+                0x00006b78                sprintf
+
+.text.__sread   0x00006bec       0x34
+ .text.__sread  0x00006bec       0x34 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+                0x00006bec                __sread
+
+.text.__seofread
+                0x00006c20        0x8
+ .text.__seofread
+                0x00006c20        0x8 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+                0x00006c20                __seofread
+
+.text.__swrite  0x00006c28       0x58
+ .text.__swrite
+                0x00006c28       0x58 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+                0x00006c28                __swrite
+
+.text.__sseek   0x00006c80       0x30
+ .text.__sseek  0x00006c80       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+                0x00006c80                __sseek
+
+.text.__sclose  0x00006cb0       0x14
+ .text.__sclose
+                0x00006cb0       0x14 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+                0x00006cb0                __sclose
+
+.text._svfprintf_r
+                0x00006cc4     0x2480
+ .text._svfprintf_r
+                0x00006cc4     0x2480 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+                0x00006cc4                _svfprintf_r
+
+.text._vsnprintf_r
+                0x00009144       0xb8
+ .text._vsnprintf_r
+                0x00009144       0xb8 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vsnprintf.o)
+                0x00009144                _vsnprintf_r
+
+.text.vsnprintf
+                0x000091fc       0x38
+ .text.vsnprintf
+                0x000091fc       0x38 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vsnprintf.o)
+                0x000091fc                vsnprintf
+
+.text._write_r  0x00009234       0x48
+ .text._write_r
+                0x00009234       0x48 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+                0x00009234                _write_r
+
+.text._close_r  0x0000927c       0x3c
+ .text._close_r
+                0x0000927c       0x3c /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+                0x0000927c                _close_r
+
+.text.quorem    0x000092b8      0x1d8
+ .text.quorem   0x000092b8      0x1d8 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+
+.text._dtoa_r   0x00009490     0x16e0
+ .text._dtoa_r  0x00009490     0x16e0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                0x00009490                _dtoa_r
+
+.text._fclose_r
+                0x0000ab70       0xfc
+ .text._fclose_r
+                0x0000ab70       0xfc /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+                0x0000ab70                _fclose_r
+
+.text.fclose    0x0000ac6c       0x14
+ .text.fclose   0x0000ac6c       0x14 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+                0x0000ac6c                fclose
+
+.text._setlocale_r
+                0x0000ac80       0x74
+ .text._setlocale_r
+                0x0000ac80       0x74 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                0x0000ac80                _setlocale_r
+
+.text.__locale_charset
+                0x0000acf4        0xc
+ .text.__locale_charset
+                0x0000acf4        0xc /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                0x0000acf4                __locale_charset
+
+.text.__locale_mb_cur_max
+                0x0000ad00       0x10
+ .text.__locale_mb_cur_max
+                0x0000ad00       0x10 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                0x0000ad00                __locale_mb_cur_max
+
+.text.__locale_msgcharset
+                0x0000ad10        0xc
+ .text.__locale_msgcharset
+                0x0000ad10        0xc /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                0x0000ad10                __locale_msgcharset
+
+.text.__locale_cjk_lang
+                0x0000ad1c        0x8
+ .text.__locale_cjk_lang
+                0x0000ad1c        0x8 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                0x0000ad1c                __locale_cjk_lang
+
+.text._localeconv_r
+                0x0000ad24        0xc
+ .text._localeconv_r
+                0x0000ad24        0xc /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                0x0000ad24                _localeconv_r
+
+.text.setlocale
+                0x0000ad30       0x18
+ .text.setlocale
+                0x0000ad30       0x18 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                0x0000ad30                setlocale
+
+.text.localeconv
+                0x0000ad48        0xc
+ .text.localeconv
+                0x0000ad48        0xc /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                0x0000ad48                localeconv
+
+.text._lseek_r  0x0000ad54       0x48
+ .text._lseek_r
+                0x0000ad54       0x48 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+                0x0000ad54                _lseek_r
+
+.text.memchr    0x0000ad9c      0x114
+ .text.memchr   0x0000ad9c      0x114 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr-stub.o)
+                0x0000ad9c                memchr
+
+.text.memcpy    0x0000aeb0       0xf0
+ .text.memcpy   0x0000aeb0       0xf0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy-stub.o)
+                0x0000aeb0                memcpy
+
+.text._Balloc   0x0000afa0       0x90
+ .text._Balloc  0x0000afa0       0x90 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x0000afa0                _Balloc
+
+.text._Bfree    0x0000b030       0x1c
+ .text._Bfree   0x0000b030       0x1c /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x0000b030                _Bfree
+
+.text.__multadd
+                0x0000b04c       0xdc
+ .text.__multadd
+                0x0000b04c       0xdc /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x0000b04c                __multadd
+
+.text.__s2b     0x0000b128       0xe8
+ .text.__s2b    0x0000b128       0xe8 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x0000b128                __s2b
+
+.text.__hi0bits
+                0x0000b210       0x5c
+ .text.__hi0bits
+                0x0000b210       0x5c /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x0000b210                __hi0bits
+
+.text.__lo0bits
+                0x0000b26c       0x94
+ .text.__lo0bits
+                0x0000b26c       0x94 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x0000b26c                __lo0bits
+
+.text.__i2b     0x0000b300       0x24
+ .text.__i2b    0x0000b300       0x24 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x0000b300                __i2b
+
+.text.__multiply
+                0x0000b324      0x1f0
+ .text.__multiply
+                0x0000b324      0x1f0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x0000b324                __multiply
+
+.text.__pow5mult
+                0x0000b514      0x104
+ .text.__pow5mult
+                0x0000b514      0x104 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x0000b514                __pow5mult
+
+.text.__lshift  0x0000b618       0xf4
+ .text.__lshift
+                0x0000b618       0xf4 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x0000b618                __lshift
+
+.text.__mcmp    0x0000b70c       0x64
+ .text.__mcmp   0x0000b70c       0x64 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x0000b70c                __mcmp
+
+.text.__mdiff   0x0000b770      0x1b0
+ .text.__mdiff  0x0000b770      0x1b0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x0000b770                __mdiff
+
+.text.__ulp     0x0000b920       0x68
+ .text.__ulp    0x0000b920       0x68 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x0000b920                __ulp
+
+.text.__b2d     0x0000b988       0xf8
+ .text.__b2d    0x0000b988       0xf8 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x0000b988                __b2d
+
+.text.__d2b     0x0000ba80      0x10c
+ .text.__d2b    0x0000ba80      0x10c /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x0000ba80                __d2b
+
+.text.__ratio   0x0000bb8c       0x98
+ .text.__ratio  0x0000bb8c       0x98 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x0000bb8c                __ratio
+
+.text._mprec_log10
+                0x0000bc24       0x54
+ .text._mprec_log10
+                0x0000bc24       0x54 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x0000bc24                _mprec_log10
+
+.text.__copybits
+                0x0000bc78       0x70
+ .text.__copybits
+                0x0000bc78       0x70 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x0000bc78                __copybits
+
+.text.__any_on  0x0000bce8       0x80
+ .text.__any_on
+                0x0000bce8       0x80 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x0000bce8                __any_on
+
+.text._read_r   0x0000bd68       0x48
+ .text._read_r  0x0000bd68       0x48 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+                0x0000bd68                _read_r
+
+.text.cleanup_glue
+                0x0000bdb0       0x2c
+ .text.cleanup_glue
+                0x0000bdb0       0x2c /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                0x0000bdb0                cleanup_glue
+
+.text._reclaim_reent
+                0x0000bddc       0xf4
+ .text._reclaim_reent
+                0x0000bddc       0xf4 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                0x0000bddc                _reclaim_reent
+
+.text.strlen    0x0000bed0       0x60
+ .text.strlen   0x0000bed0       0x60 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen-stub.o)
+                0x0000bed0                strlen
+
+.text.__ssprint_r
+                0x0000bf30      0x1b0
+ .text.__ssprint_r
+                0x0000bf30      0x1b0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+                0x0000bf30                __ssprint_r
+
+.text._svfiprintf_r
+                0x0000c0e0     0x12b0
+ .text._svfiprintf_r
+                0x0000c0e0     0x12b0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+                0x0000c0e0                _svfiprintf_r
+
+.text._calloc_r
+                0x0000d390       0x98
+ .text._calloc_r
+                0x0000d390       0x98 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+                0x0000d390                _calloc_r
+
+.text.memmove   0x0000d428      0x12c
+ .text.memmove  0x0000d428      0x12c /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+                0x0000d428                memmove
+
+.text._realloc_r
+                0x0000d554      0x580
+ .text._realloc_r
+                0x0000d554      0x580 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+                0x0000d554                _realloc_r
+
+.rodata         0x0000dad4      0x230
+ *(.rodata)
+ .rodata        0x0000dad4      0x228 sata_table.o
+                0x0000dad4                ata_function_table
+                0x0000dbc0                ata_command_code_table
+                0x0000dbfc                ata_cmd_class_table
+ .rodata        0x0000dcfc        0x8 flash.o
+                0x0000dcfc                c_bank_map
+
+.rodata.str1.4  0x0000dd04      0x28c
+ .rodata.str1.4
+                0x0000dd04      0x193 ftl.o
+ *fill*         0x0000de97        0x1 
+ .rodata.str1.4
+                0x0000de98       0x29 sata_identify.o
+ *fill*         0x0000dec1        0x3 
+ .rodata.str1.4
+                0x0000dec4       0x13 initialize.o
+ *fill*         0x0000ded7        0x1 
+ .rodata.str1.4
+                0x0000ded8       0x53 misc.o
+ .rodata.str1.4
+                0x0000df2b        0x3 uart.o
+ *fill*         0x0000df2b        0x1 
+ .rodata.str1.4
+                0x0000df2c        0x2 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ *fill*         0x0000df2e        0x2 
+ .rodata.str1.4
+                0x0000df30       0x42 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+ *fill*         0x0000df72        0x2 
+ .rodata.str1.4
+                0x0000df74       0x10 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                                 0x12 (size before relaxing)
+ .rodata.str1.4
+                0x0000df84        0xc /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                                 0x12 (size before relaxing)
+ .rodata.str1.4
+                0x0000df90       0x2f /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+
+.ARM.extab      0x0000df90        0x0
+ .ARM.extab     0x0000df90        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_udivmoddi4.o)
+
+.ARM.exidx      0x0000df90        0x8
+ .ARM.exidx     0x0000df90        0x8 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_udivmoddi4.o)
+
+.rodata._global_impure_ptr
+                0x0000df98        0x4
+ .rodata._global_impure_ptr
+                0x0000df98        0x4 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                0x0000df98                _global_impure_ptr
+
+.rodata.zeroes.7035
+                0x0000df9c       0x10
+ .rodata.zeroes.7035
+                0x0000df9c       0x10 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+
+.rodata.blanks.7034
+                0x0000dfac       0x10
+ .rodata.blanks.7034
+                0x0000dfac       0x10 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+
+.rodata.__mprec_tens
+                0x0000dfc0       0xc8
+ .rodata.__mprec_tens
+                0x0000dfc0       0xc8 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x0000dfc0                __mprec_tens
+
+.rodata.__mprec_bigtens
+                0x0000e088       0x28
+ .rodata.__mprec_bigtens
+                0x0000e088       0x28 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x0000e088                __mprec_bigtens
+
+.rodata.p05.5373
+                0x0000e0b0        0xc
+ .rodata.p05.5373
+                0x0000e0b0        0xc /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+
+.rodata.__mprec_tinytens
+                0x0000e0c0       0x28
+ .rodata.__mprec_tinytens
+                0x0000e0c0       0x28 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x0000e0c0                __mprec_tinytens
+
+.rodata.zeroes.6979
+                0x0000e0e8       0x10
+ .rodata.zeroes.6979
+                0x0000e0e8       0x10 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+
+.rodata.blanks.6978
+                0x0000e0f8       0x10
+ .rodata.blanks.6978
+                0x0000e0f8       0x10 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+
+.rel.dyn        0x0000e108        0x0
+ .rel.iplt      0x0000e108        0x0 ftl.o
+
+.data           0x0000e108      0x224
+ *(.data)
+ .data          0x0000e108        0x1 ftl.o
+                0x0000e108                uart
+ *fill*         0x0000e109        0x3 
+ .data          0x0000e10c      0x200 sata_identify.o
+                0x0000e10c                ht_identify_data
+ .data          0x0000e30c        0x0 sata_cmd.o
+ .data          0x0000e30c        0x0 sata_isr.o
+ .data          0x0000e30c        0x0 sata_main.o
+ .data          0x0000e30c        0x0 sata_table.o
+ .data          0x0000e30c        0x0 initialize.o
+ .data          0x0000e30c        0x0 mem_util.o
+ .data          0x0000e30c       0x20 flash.o
+                0x0000e30c                c_bank_rmap
+ .data          0x0000e32c        0x0 flash_wrapper.o
+ .data          0x0000e32c        0x0 misc.o
+ .data          0x0000e32c        0x0 uart.o
+ .data          0x0000e32c        0x0 syscalls.o
+ .data          0x0000e32c        0x0 init.o
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_divsi3.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_dvmd_tls.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_udivmoddi4.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_clzdi2.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_clzsi2.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-rand.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-sprintf.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vsnprintf.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr-stub.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy-stub.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen-stub.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_udivsi3.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_arm_addsubdf3.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_arm_muldivdf3.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_arm_cmpdf2.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_arm_unorddf2.o)
+ .data          0x0000e32c        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_arm_fixdfsi.o)
+
+.igot.plt       0x0000e32c        0x0
+ .igot.plt      0x0000e32c        0x0 ftl.o
+
+.data.impure_data
+                0x0000e330      0x428
+ .data.impure_data
+                0x0000e330      0x428 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+
+.data._impure_ptr
+                0x0000e758        0x4
+ .data._impure_ptr
+                0x0000e758        0x4 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                0x0000e758                _impure_ptr
+
+.data.__malloc_av_
+                0x0000e75c      0x408
+ .data.__malloc_av_
+                0x0000e75c      0x408 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x0000e75c                __malloc_av_
+
+.data.__malloc_trim_threshold
+                0x0000eb64        0x4
+ .data.__malloc_trim_threshold
+                0x0000eb64        0x4 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x0000eb64                __malloc_trim_threshold
+
+.data.__malloc_sbrk_base
+                0x0000eb68        0x4
+ .data.__malloc_sbrk_base
+                0x0000eb68        0x4 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x0000eb68                __malloc_sbrk_base
+
+.data.lc_message_charset
+                0x0000eb6c       0x20
+ .data.lc_message_charset
+                0x0000eb6c       0x20 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+
+.data.lconv     0x0000eb8c       0x38
+ .data.lconv    0x0000eb8c       0x38 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+
+.data.lc_ctype_charset
+                0x0000ebc4       0x20
+ .data.lc_ctype_charset
+                0x0000ebc4       0x20 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+
+.data.__mb_cur_max
+                0x0000ebe4        0x4
+ .data.__mb_cur_max
+                0x0000ebe4        0x4 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                0x0000ebe4                __mb_cur_max
+
+.bss            0x0000ebe8     0x400c
+ *(.bss)
+ .bss           0x0000ebe8     0x2dd1 ftl.o
+                0x00011948                flushed_map
+                0x000119ac                num_flushed_map
+                0x000119b0                flush_period
+                0x000119b4                map_full
+                0x000119b8                syncEvic
+ .bss           0x000119b9        0x0 sata_identify.o
+ .bss           0x000119b9        0x0 sata_cmd.o
+ .bss           0x000119b9        0x1 sata_isr.o
+                0x000119b9                num_entry
+ *fill*         0x000119ba        0x2 
+ .bss           0x000119bc        0x4 sata_main.o
+ .bss           0x000119c0        0x0 sata_table.o
+ .bss           0x000119c0        0x0 initialize.o
+ .bss           0x000119c0        0x0 mem_util.o
+ .bss           0x000119c0        0x0 flash.o
+ .bss           0x000119c0        0x0 flash_wrapper.o
+ .bss           0x000119c0       0x44 misc.o
+ .bss           0x00011a04        0x0 uart.o
+ .bss           0x00011a04        0x0 syscalls.o
+ .bss           0x00011a04        0x0 init.o
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_divsi3.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_dvmd_tls.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_udivmoddi4.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_clzdi2.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_clzsi2.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-rand.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-sprintf.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vsnprintf.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr-stub.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy-stub.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen-stub.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_udivsi3.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_arm_unorddf2.o)
+ .bss           0x00011a04        0x0 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_arm_fixdfsi.o)
+ COMMON         0x00011a04      0x39c ftl.o
+                0x00011a04                tag_list
+                0x00011a14                fifo_start
+                0x00011a18                mapTableRef
+                0x00011b00                bitmap
+                0x00011b80                fifo_end
+                0x00011b84                g_ftl_read_buf_id
+                0x00011b88                g_ftl_write_buf_id
+                0x00011b8c                tag_last
+                0x00011b9c                hash_list
+                0x00011d9c                num_entries
+ COMMON         0x00011da0       0x20 sata_isr.o
+                0x00011da0                inum_table
+ COMMON         0x00011dc0      0x424 sata_main.o
+                0x00011dc0                g_sata_context
+                0x00011ddc                g_sata_action_flags
+                0x00011de0                g_sata_ncq
+ COMMON         0x000121e4      0x200 mem_util.o
+                0x000121e4                g_temp_mem
+ COMMON         0x000123e4      0x80c misc.o
+                0x000123e4                g_sdram_ecc_fail_count
+                0x000123e8                g_timer_interrupt_count
+                0x000123ec                g_sdram_ecc_count
+                0x000123f0                __HEAP_START
+ COMMON         0x00012bf0        0x4 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                0x00012bf0                errno
+                0x0000ebe8                Image$$ER_ZI$$ZI$$Base = LOADADDR (.bss)
+                0x0000400c                Image$$ER_ZI$$ZI$$Length = SIZEOF (.bss)
+                0x0000ebe8                size_of_firmware_image = LOADADDR (.bss)
+                0x00000000                _start = entry_point
+OUTPUT(firmware.elf elf32-littlearm)
+
+.bss.__malloc_max_total_mem
+                0x00012bf4        0x4
+ .bss.__malloc_max_total_mem
+                0x00012bf4        0x4 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x00012bf4                __malloc_max_total_mem
+
+.bss.__malloc_max_sbrked_mem
+                0x00012bf8        0x4
+ .bss.__malloc_max_sbrked_mem
+                0x00012bf8        0x4 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x00012bf8                __malloc_max_sbrked_mem
+
+.bss.__malloc_top_pad
+                0x00012bfc        0x4
+ .bss.__malloc_top_pad
+                0x00012bfc        0x4 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x00012bfc                __malloc_top_pad
+
+.bss.__malloc_current_mallinfo
+                0x00012c00       0x28
+ .bss.__malloc_current_mallinfo
+                0x00012c00       0x28 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x00012c00                __malloc_current_mallinfo
+
+.bss._PathLocale
+                0x00012c28        0x4
+ .bss._PathLocale
+                0x00012c28        0x4 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                0x00012c28                _PathLocale
+
+.bss.__nlocale_changed
+                0x00012c2c        0x4
+ .bss.__nlocale_changed
+                0x00012c2c        0x4 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                0x00012c2c                __nlocale_changed
+
+.bss.__mlocale_changed
+                0x00012c30        0x4
+ .bss.__mlocale_changed
+                0x00012c30        0x4 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                0x00012c30                __mlocale_changed
+
+.debug_info     0x00000000     0x6988
+ .debug_info    0x00000000     0x2398 ftl.o
+ .debug_info    0x00002398      0x3d5 sata_identify.o
+ .debug_info    0x0000276d      0xab2 sata_cmd.o
+ .debug_info    0x0000321f      0x712 sata_isr.o
+ .debug_info    0x00003931      0x571 sata_main.o
+ .debug_info    0x00003ea2       0xfd sata_table.o
+ .debug_info    0x00003f9f      0x22f initialize.o
+ .debug_info    0x000041ce      0xa26 mem_util.o
+ .debug_info    0x00004bf4      0x34f flash.o
+ .debug_info    0x00004f43      0x78e flash_wrapper.o
+ .debug_info    0x000056d1      0x645 misc.o
+ .debug_info    0x00005d16      0xb73 uart.o
+ .debug_info    0x00006889       0xff syscalls.o
+
+.debug_abbrev   0x00000000     0x1948
+ .debug_abbrev  0x00000000      0x333 ftl.o
+ .debug_abbrev  0x00000333      0x1e4 sata_identify.o
+ .debug_abbrev  0x00000517      0x28b sata_cmd.o
+ .debug_abbrev  0x000007a2      0x1e3 sata_isr.o
+ .debug_abbrev  0x00000985      0x275 sata_main.o
+ .debug_abbrev  0x00000bfa       0x87 sata_table.o
+ .debug_abbrev  0x00000c81       0xf7 initialize.o
+ .debug_abbrev  0x00000d78      0x286 mem_util.o
+ .debug_abbrev  0x00000ffe      0x1ab flash.o
+ .debug_abbrev  0x000011a9      0x145 flash_wrapper.o
+ .debug_abbrev  0x000012ee      0x302 misc.o
+ .debug_abbrev  0x000015f0      0x29a uart.o
+ .debug_abbrev  0x0000188a       0xbe syscalls.o
+
+.debug_loc      0x00000000     0x4c11
+ .debug_loc     0x00000000     0x164c ftl.o
+ .debug_loc     0x0000164c      0x11a sata_identify.o
+ .debug_loc     0x00001766      0x6bb sata_cmd.o
+ .debug_loc     0x00001e21      0x64f sata_isr.o
+ .debug_loc     0x00002470      0x1fc sata_main.o
+ .debug_loc     0x0000266c       0x13 initialize.o
+ .debug_loc     0x0000267f     0x148c mem_util.o
+ .debug_loc     0x00003b0b      0x365 flash.o
+ .debug_loc     0x00003e70      0x97d flash_wrapper.o
+ .debug_loc     0x000047ed      0x281 misc.o
+ .debug_loc     0x00004a6e      0x140 uart.o
+ .debug_loc     0x00004bae       0x63 syscalls.o
+
+.debug_aranges  0x00000000      0x198
+ .debug_aranges
+                0x00000000       0x20 ftl.o
+ .debug_aranges
+                0x00000020       0x20 sata_identify.o
+ .debug_aranges
+                0x00000040       0x20 sata_cmd.o
+ .debug_aranges
+                0x00000060       0x20 sata_isr.o
+ .debug_aranges
+                0x00000080       0x20 sata_main.o
+ .debug_aranges
+                0x000000a0       0x18 sata_table.o
+ .debug_aranges
+                0x000000b8       0x20 initialize.o
+ .debug_aranges
+                0x000000d8       0x20 mem_util.o
+ .debug_aranges
+                0x000000f8       0x20 flash.o
+ .debug_aranges
+                0x00000118       0x20 flash_wrapper.o
+ .debug_aranges
+                0x00000138       0x20 misc.o
+ .debug_aranges
+                0x00000158       0x20 uart.o
+ .debug_aranges
+                0x00000178       0x20 syscalls.o
+
+.debug_ranges   0x00000000      0x7e0
+ .debug_ranges  0x00000000      0x368 ftl.o
+ .debug_ranges  0x00000368       0x20 sata_identify.o
+ .debug_ranges  0x00000388       0x68 sata_cmd.o
+ .debug_ranges  0x000003f0       0xf8 sata_isr.o
+ .debug_ranges  0x000004e8       0x98 sata_main.o
+ .debug_ranges  0x00000580       0x90 mem_util.o
+ .debug_ranges  0x00000610       0x50 flash.o
+ .debug_ranges  0x00000660       0x70 flash_wrapper.o
+ .debug_ranges  0x000006d0       0x58 misc.o
+ .debug_ranges  0x00000728       0xb8 uart.o
+
+.debug_line     0x00000000     0x17b6
+ .debug_line    0x00000000      0x563 ftl.o
+ .debug_line    0x00000563       0xf6 sata_identify.o
+ .debug_line    0x00000659      0x224 sata_cmd.o
+ .debug_line    0x0000087d      0x207 sata_isr.o
+ .debug_line    0x00000a84      0x16d sata_main.o
+ .debug_line    0x00000bf1       0x5b sata_table.o
+ .debug_line    0x00000c4c      0x140 initialize.o
+ .debug_line    0x00000d8c      0x1bc mem_util.o
+ .debug_line    0x00000f48      0x17e flash.o
+ .debug_line    0x000010c6      0x253 flash_wrapper.o
+ .debug_line    0x00001319      0x27c misc.o
+ .debug_line    0x00001595      0x1d6 uart.o
+ .debug_line    0x0000176b       0x4b syscalls.o
+
+.debug_str      0x00000000     0x1d23
+ .debug_str     0x00000000      0x829 ftl.o
+                                0x90c (size before relaxing)
+ .debug_str     0x00000829      0x1bb sata_identify.o
+                                0x2f1 (size before relaxing)
+ .debug_str     0x000009e4      0x7fd sata_cmd.o
+                                0xa42 (size before relaxing)
+ .debug_str     0x000011e1      0x12f sata_isr.o
+                                0x800 (size before relaxing)
+ .debug_str     0x00001310       0xfc sata_main.o
+                                0x38c (size before relaxing)
+ .debug_str     0x0000140c       0x15 sata_table.o
+                                0x165 (size before relaxing)
+ .debug_str     0x00001421       0x7e initialize.o
+                                0x1ed (size before relaxing)
+ .debug_str     0x0000149f      0x124 mem_util.o
+                                0x321 (size before relaxing)
+ .debug_str     0x000015c3       0xa9 flash.o
+                                0x20d (size before relaxing)
+ .debug_str     0x0000166c      0x111 flash_wrapper.o
+                                0x32e (size before relaxing)
+ .debug_str     0x0000177d      0x178 misc.o
+                                0x376 (size before relaxing)
+ .debug_str     0x000018f5      0x40e uart.o
+                                0x5d9 (size before relaxing)
+ .debug_str     0x00001d03       0x20 syscalls.o
+                                 0xdf (size before relaxing)
+
+.comment        0x00000000       0x6e
+ .comment       0x00000000       0x6e ftl.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f sata_identify.o
+ .comment       0x0000006e       0x6f sata_cmd.o
+ .comment       0x0000006e       0x6f sata_isr.o
+ .comment       0x0000006e       0x6f sata_main.o
+ .comment       0x0000006e       0x6f sata_table.o
+ .comment       0x0000006e       0x6f initialize.o
+ .comment       0x0000006e       0x6f mem_util.o
+ .comment       0x0000006e       0x6f flash.o
+ .comment       0x0000006e       0x6f flash_wrapper.o
+ .comment       0x0000006e       0x6f misc.o
+ .comment       0x0000006e       0x6f uart.o
+ .comment       0x0000006e       0x6f syscalls.o
+
+.ARM.attributes
+                0x00000000       0x30
+ .ARM.attributes
+                0x00000000       0x32 ftl.o
+ .ARM.attributes
+                0x00000032       0x32 sata_identify.o
+ .ARM.attributes
+                0x00000064       0x32 sata_cmd.o
+ .ARM.attributes
+                0x00000096       0x32 sata_isr.o
+ .ARM.attributes
+                0x000000c8       0x32 sata_main.o
+ .ARM.attributes
+                0x000000fa       0x32 sata_table.o
+ .ARM.attributes
+                0x0000012c       0x32 initialize.o
+ .ARM.attributes
+                0x0000015e       0x32 mem_util.o
+ .ARM.attributes
+                0x00000190       0x32 flash.o
+ .ARM.attributes
+                0x000001c2       0x32 flash_wrapper.o
+ .ARM.attributes
+                0x000001f4       0x32 misc.o
+ .ARM.attributes
+                0x00000226       0x32 uart.o
+ .ARM.attributes
+                0x00000258       0x32 syscalls.o
+ .ARM.attributes
+                0x0000028a       0x22 init.o
+ .ARM.attributes
+                0x000002ac       0x18 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x000002c4       0x18 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000002dc       0x18 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x000002f4       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000324       0x18 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_clzdi2.o)
+ .ARM.attributes
+                0x0000033c       0x18 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_clzsi2.o)
+ .ARM.attributes
+                0x00000354       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x00000384       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x000003b4       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x000003e4       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x00000414       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000444       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x00000474       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000004a4       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x000004d4       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-rand.o)
+ .ARM.attributes
+                0x00000504       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000534       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-sprintf.o)
+ .ARM.attributes
+                0x00000564       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x00000594       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+ .ARM.attributes
+                0x000005c4       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vsnprintf.o)
+ .ARM.attributes
+                0x000005f4       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .ARM.attributes
+                0x00000624       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .ARM.attributes
+                0x00000654       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+ .ARM.attributes
+                0x00000684       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .ARM.attributes
+                0x000006b4       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+ .ARM.attributes
+                0x000006e4       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x00000714       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr-stub.o)
+ .ARM.attributes
+                0x00000744       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000774       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+ .ARM.attributes
+                0x000007a4       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+ .ARM.attributes
+                0x000007d4       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000804       0x16 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x0000081a       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen-stub.o)
+ .ARM.attributes
+                0x0000084a       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+ .ARM.attributes
+                0x0000087a       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+ .ARM.attributes
+                0x000008aa       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x000008da       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x0000090a       0x18 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000922       0x18 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x0000093a       0x18 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000952       0x18 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x0000096a       0x18 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_arm_unorddf2.o)
+ .ARM.attributes
+                0x00000982       0x18 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_arm_fixdfsi.o)
+
+.debug_frame    0x00000000     0x1b48
+ .debug_frame   0x00000000      0x224 ftl.o
+ .debug_frame   0x00000224       0x5c sata_identify.o
+ .debug_frame   0x00000280      0x1d0 sata_cmd.o
+ .debug_frame   0x00000450       0x38 sata_isr.o
+ .debug_frame   0x00000488       0x80 sata_main.o
+ .debug_frame   0x00000508       0x48 initialize.o
+ .debug_frame   0x00000550      0x214 mem_util.o
+ .debug_frame   0x00000764       0xd4 flash.o
+ .debug_frame   0x00000838      0x200 flash_wrapper.o
+ .debug_frame   0x00000a38      0x124 misc.o
+ .debug_frame   0x00000b5c       0x9c uart.o
+ .debug_frame   0x00000bf8       0x50 syscalls.o
+ .debug_frame   0x00000c48       0x20 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_divsi3.o)
+ .debug_frame   0x00000c68       0x2c /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00000c94       0x48 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00000cdc       0xa4 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .debug_frame   0x00000d80      0x174 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .debug_frame   0x00000ef4       0x78 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .debug_frame   0x00000f6c       0x80 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .debug_frame   0x00000fec       0x84 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .debug_frame   0x00001070       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .debug_frame   0x000010a0       0x30 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .debug_frame   0x000010d0       0x3c /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-rand.o)
+ .debug_frame   0x0000110c       0x3c /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x00001148       0x7c /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-sprintf.o)
+ .debug_frame   0x000011c4       0x9c /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .debug_frame   0x00001260       0x50 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+ .debug_frame   0x000012b0       0x60 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vsnprintf.o)
+ .debug_frame   0x00001310       0x34 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .debug_frame   0x00001344       0x34 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .debug_frame   0x00001378       0xac /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+ .debug_frame   0x00001424       0x58 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .debug_frame   0x0000147c       0xa4 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+ .debug_frame   0x00001520       0x34 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .debug_frame   0x00001554       0x34 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr-stub.o)
+ .debug_frame   0x00001588       0x3c /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x000015c4      0x2ec /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+ .debug_frame   0x000018b0       0x34 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+ .debug_frame   0x000018e4       0x64 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .debug_frame   0x00001948       0x40 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .debug_frame   0x00001988       0x20 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen-stub.o)
+ .debug_frame   0x000019a8       0x9c /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+ .debug_frame   0x00001a44       0x34 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+ .debug_frame   0x00001a78       0x40 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .debug_frame   0x00001ab8       0x70 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .debug_frame   0x00001b28       0x20 /home/taehyung/arm-none-eabi_v1/bin/../lib/gcc/arm-none-eabi/5.3.1/libgcc.a(_udivsi3.o)
